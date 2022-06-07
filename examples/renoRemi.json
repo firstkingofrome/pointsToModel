@@ -1,0 +1,4121 @@
+{
+    "1003-354": {
+        "Site name": " E. Second St. between Wells Ave. and High St., Reno\n",
+        "Lat/long": " 39.5239/-119.80537\n",
+        "Average velocity to 10 m, m/s": " 516\n",
+        "Average velocity to 30 m, m/s": " 537\n",
+        "Average velocity to 100 m, m/s": " 603\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 20/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 176.47 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (12/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                515.753
+            ],
+            [
+                18.881,
+                515.753
+            ],
+            [
+                18.881,
+                576.027
+            ],
+            [
+                49.65,
+                576.027
+            ],
+            [
+                49.65,
+                663.699
+            ],
+            [
+                59.0,
+                663.699
+            ]
+        ]
+    },
+    "1017-355": {
+        "Site name": " Locust St. between Aitken St.and Willow, Reno\n",
+        "Lat/long": " 39.52568/-119.8005\n",
+        "Average velocity to 10 m, m/s": " 429\n",
+        "Average velocity to 30 m, m/s": " 498\n",
+        "Average velocity to 100 m, m/s": " 583 \n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 127.53 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                428.995
+            ],
+            [
+                10.723,
+                428.995
+            ],
+            [
+                10.723,
+                547.717
+            ],
+            [
+                31.235,
+                547.717
+            ],
+            [
+                31.235,
+                629.909
+            ],
+            [
+                37.0,
+                629.909
+            ]
+        ]
+    },
+    "vrrt13-32": {
+        "Site name": " VRRT 13-32\n",
+        "Lat/long": " 39.47593901/-119.6770075\n",
+        "Endpoint Lat/Long": " N/A\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 404\n",
+        "Average velocity to 30 m, m/s": " 555\n",
+        "Average velocity to 100 m, m/s": " 683\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " N/A \n",
+        "Geological reference": " N/A\n",
+        "Date": " 16/03/03 (dd/mm/yy)\n",
+        "Performed by": " Geol 492/692 class\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 50 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " J. Louie (10/08/09)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                398.08
+            ],
+            [
+                9.0,
+                398.08
+            ],
+            [
+                9.0,
+                639.07
+            ],
+            [
+                25.0,
+                639.07
+            ],
+            [
+                25.0,
+                762.24
+            ],
+            [
+                100.0,
+                762.24
+            ]
+        ]
+    },
+    "SF02": {
+        "Site name": " SF02 (Sparks Fire Station #2), RENO \n",
+        "Lat/long": " 39.55564/-119.7326\n",
+        "Endpoint Lat/Long": " 39.55625/-119.73182\n",
+        "Seismic Station Location Lat/Long": " 39.5557/-119.7334\n",
+        "Average velocity to 10 m, m/s": " 237\n",
+        "Average velocity to 30 m, m/s": " 296\n",
+        "Average velocity to 100 m, m/s": " 434\n",
+        "Soil Classification": " 601\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Qao\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 19/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 460 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (14/02/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                209.836
+            ],
+            [
+                6.357,
+                209.836
+            ],
+            [
+                6.357,
+                305.102
+            ],
+            [
+                20.538,
+                305.102
+            ],
+            [
+                20.538,
+                382.653
+            ],
+            [
+                43.032,
+                382.653
+            ],
+            [
+                43.032,
+                525.51
+            ],
+            [
+                83.619,
+                525.51
+            ],
+            [
+                83.619,
+                941.837
+            ],
+            [
+                111.491,
+                941.837
+            ],
+            [
+                111.491,
+                1088.776
+            ],
+            [
+                150.0,
+                1088.776
+            ]
+        ]
+    },
+    "1011-355": {
+        "Site name": " S. Wells Ave. between Mill St. and Second St., Reno\n",
+        "Lat/long": " 39.5265/-119.8029\n",
+        "Average velocity to 10 m, m/s": " 498\n",
+        "Average velocity to 30 m, m/s": " 498\n",
+        "Average velocity to 100 m, m/s": " 774\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 204.71 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                497.514
+            ],
+            [
+                30.0,
+                497.514
+            ],
+            [
+                30.0,
+                936.74
+            ],
+            [
+                37.355,
+                936.74
+            ],
+            [
+                37.355,
+                1025.138
+            ],
+            [
+                44.0,
+                1025.138
+            ]
+        ]
+    },
+    "SPHI-RS": {
+        "Site name": " NN Station SPHI, 12th Street, Sparks, NV \n",
+        "Lat/long": " 39.543705/-119.759228\n",
+        "Endpoint Lat/Long": " 39.543520/-119.758119 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.543489/-119.758299 WGS84\n",
+        "Array center to station distance": " 84 m\n",
+        "Average velocity to 10 m, m/s": " 257      \n",
+        "Average velocity to 30 m, m/s": " 312   \n",
+        "Average velocity to 100 m, m/s": " 376     \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 130     \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (29/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                116.0
+            ],
+            [
+                1.5,
+                116.0
+            ],
+            [
+                1.5,
+                247.0
+            ],
+            [
+                3.3,
+                247.0
+            ],
+            [
+                3.3,
+                352.0
+            ],
+            [
+                76.2,
+                352.0
+            ],
+            [
+                76.2,
+                532.0
+            ],
+            [
+                128.0,
+                532.0
+            ],
+            [
+                128.0,
+                647.0
+            ],
+            [
+                130.0,
+                647.0
+            ]
+        ]
+    },
+    "1001-354": {
+        "Site name": " E. Second St. between Kirman Ave. and Locust, Reno\n",
+        "Lat/long": " 39.5274/-119.79965\n",
+        "Average velocity to 10 m, m/s": " 401\n",
+        "Average velocity to 30 m, m/s": " 422\n",
+        "Average velocity to 100 m, m/s": " 529\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 20/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 100 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (12/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                400.685
+            ],
+            [
+                22.378,
+                400.685
+            ],
+            [
+                22.378,
+                499.315
+            ],
+            [
+                43.124,
+                499.315
+            ],
+            [
+                43.124,
+                619.863
+            ],
+            [
+                51.0,
+                619.863
+            ]
+        ]
+    },
+    "VSTA1-s1-remi": {
+        "Site name": " North Virgina St. Array No.1, Fire Station 10 RF10, Reno, Nevada\n",
+        "Lat/long": " 39.5746/-119.82940 \n",
+        "Endpoint Lat/Long": " 39.575071/-119.831187 WGS84\n",
+        "Seismic Station Location Lat/Long": " 39.5742/-119.8275 NAD27?\n",
+        "Average velocity to 10 m, m/s": " 997\n",
+        "Average velocity to 30 m, m/s": " 664\n",
+        "Average velocity to 100 m, m/s": " 1153\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Ta\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 31.83 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (24/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                997.489
+            ],
+            [
+                10.451,
+                997.489
+            ],
+            [
+                10.451,
+                563.699
+            ],
+            [
+                31.828,
+                563.699
+            ],
+            [
+                31.828,
+                1773.744
+            ],
+            [
+                131.828,
+                1773.744
+            ]
+        ]
+    },
+    "UNRX-RS": {
+        "Site name": " NN Station UNRX, Mill Street, Reno, NV \n",
+        "Lat/long": " 39.513068/-119.748319\n",
+        "Endpoint Lat/Long": " 39.513434/-119.749530 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.513987/-119.749296 WGS84\n",
+        "Array center to station distance": " 137 m\n",
+        "Average velocity to 10 m, m/s": " 334      \n",
+        "Average velocity to 30 m, m/s": " 335    \n",
+        "Average velocity to 100 m, m/s": " 371      \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 150     \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (29/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                335.0
+            ],
+            [
+                30.6,
+                335.0
+            ],
+            [
+                30.6,
+                374.0
+            ],
+            [
+                62.4,
+                374.0
+            ],
+            [
+                62.4,
+                642.0
+            ],
+            [
+                150.0,
+                642.0
+            ]
+        ]
+    },
+    "1006-354": {
+        "Site name": " E. Mill St. between Kirman Ave. and Locust, Reno\n",
+        "Lat/long": " 39.5256/-119.79945\n",
+        "Average velocity to 10 m, m/s": " 388\n",
+        "Average velocity to 30 m, m/s": " 430\n",
+        "Average velocity to 100 m, m/s": " 528\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 20/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 117.65 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (12/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                387.9
+            ],
+            [
+                16.084,
+                387.9
+            ],
+            [
+                16.084,
+                492.922
+            ],
+            [
+                41.492,
+                492.922
+            ],
+            [
+                41.492,
+                607.078
+            ],
+            [
+                50.0,
+                607.078
+            ]
+        ]
+    },
+    "1010-355": {
+        "Site name": " S. Wells Ave. between Ryland St. and Mill St., Reno\n",
+        "Lat/long": " 39.52463/-119.8029\n",
+        "Average velocity to 10 m, m/s": " 447\n",
+        "Average velocity to 30 m, m/s": " 496\n",
+        "Average velocity to 100 m, m/s": " 694\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 113.88 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                447.26
+            ],
+            [
+                19.114,
+                447.26
+            ],
+            [
+                19.114,
+                577.397
+            ],
+            [
+                27.972,
+                577.397
+            ],
+            [
+                27.972,
+                837.671
+            ],
+            [
+                32.0,
+                837.671
+            ]
+        ]
+    },
+    "NMHS": {
+        "Site name": " NMHS (Nevada Mental Health Services), RENO, NV\n",
+        "Lat/long": " 39.53155/-119.776235\n",
+        "Endpoint Lat/Long": " 39.53279/-119.77668\n",
+        "Seismic Station Location Lat/Long": " 39.53093/-119.7754\n",
+        "Average velocity to 10 m, m/s": " 489\n",
+        "Average velocity to 30 m, m/s": " 434\n",
+        "Average velocity to 100 m, m/s": " 488\n",
+        "Soil Classification": " 669\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Qto\n",
+        "Geological reference": "Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 19/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 475 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                489.457
+            ],
+            [
+                15.159,
+                489.457
+            ],
+            [
+                15.159,
+                389.071
+            ],
+            [
+                73.839,
+                389.071
+            ],
+            [
+                73.839,
+                1122.951
+            ],
+            [
+                200.0,
+                1122.951
+            ]
+        ]
+    },
+    "CCAD-PO-RS": {
+        "Site name": " NN Station CCAD, West King St, Carson City, NV\n",
+        "Lat/long": " 39.164034/-119.779321 \n",
+        "Endpoint Lat/Long": " 39.164039\t/-119.780360 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.164092/-119.779596 WGS84\n",
+        "Array center to station distance": " 29 m\n",
+        "Average velocity to 10 m, m/s": " 226\n",
+        "Average velocity to 30 m, m/s": " 288\n",
+        "Date": " 16/11/10 (dd/mm/yy)\n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of Measurements": " 70 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (22/12/11)\n",
+        "units": "Depth(m) Vs(m/s)  \n",
+        "data": [
+            [
+                0.0,
+                226.0
+            ],
+            [
+                13.0,
+                226.0
+            ],
+            [
+                13.0,
+                367.0
+            ],
+            [
+                31.0,
+                367.0
+            ],
+            [
+                31.0,
+                1253.0
+            ],
+            [
+                131.0,
+                1253.0
+            ]
+        ]
+    },
+    "EagleValleyMiddleSchool-s2-remi": {
+        "Site name": " Eagle Valley Middle School, Carson City, Nevada\n",
+        "Lat/long": " 39.158093/-119.721544 \n",
+        "Endpoint Lat/Long": " 39.157877/-119.722609 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 251\n",
+        "Average velocity to 30 m, m/s": " 310\n",
+        "Average velocity to 100 m, m/s": " 485\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qal\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 67.46 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (24/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                250.913
+            ],
+            [
+                13.777,
+                250.913
+            ],
+            [
+                13.777,
+                387.9
+            ],
+            [
+                32.304,
+                387.9
+            ],
+            [
+                32.304,
+                643.607
+            ],
+            [
+                96.437,
+                643.607
+            ],
+            [
+                96.437,
+                981.507
+            ],
+            [
+                196.437,
+                981.507
+            ]
+        ]
+    },
+    "MindenGardnerville-s4-remi": {
+        "Site name": " Minden & Gardnerville firestation , Minden, Nevada\n",
+        "Lat/long": " 39.954428/-119.7664\n",
+        "Endpoint Lat/Long": " 39.954065/-119.765557 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 328\n",
+        "Average velocity to 30 m, m/s": " 389\n",
+        "Average velocity to 100 m, m/s": " 550\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qf2\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 49.41 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (24/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                285.616
+            ],
+            [
+                6.176,
+                285.616
+            ],
+            [
+                6.176,
+                428.995
+            ],
+            [
+                49.406,
+                428.995
+            ],
+            [
+                49.406,
+                853.653
+            ],
+            [
+                200.0,
+                853.653
+            ]
+        ]
+    },
+    "SPHI": {
+        "Site name": " SPHI Sparks High School, SPARKS, NV\n",
+        "Lat/long": " 39.5438/-119.75963\n",
+        "Endpoint Lat/Long": " 39.54343/-119.75800\n",
+        "Seismic Station Location Lat/Long": " 39.5436/-119.7573\n",
+        "Average velocity to 10 m, m/s": " 355\n",
+        "Average velocity to 30 m, m/s": " 355\n",
+        "Average velocity to 100 m, m/s": " 415\n",
+        "Soil Classification": " 600\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Qay\n",
+        "Geological reference": "Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 20/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 500 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                354.645
+            ],
+            [
+                60.636,
+                354.645
+            ],
+            [
+                60.636,
+                564.754
+            ],
+            [
+                124.205,
+                564.754
+            ],
+            [
+                124.205,
+                1086.066
+            ],
+            [
+                200.0,
+                1086.066
+            ]
+        ]
+    },
+    "WGLF-RS": {
+        "Site name": " NN Station WGLF, Foley Way, Reno, NV \n",
+        "Lat/long": " 39.499329/-119.821317\n",
+        "Endpoint Lat/Long": " 39.500036/-119.820968 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.498496/-119.821503 WGS84\n",
+        "Array center to station distance": " 92 m\n",
+        "Average velocity to 10 m, m/s": " 324       \n",
+        "Average velocity to 30 m, m/s": " 365     \n",
+        "Average velocity to 100 m, m/s": " 410      \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 120      \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (29/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                182.0
+            ],
+            [
+                2.4,
+                182.0
+            ],
+            [
+                2.4,
+                297.0
+            ],
+            [
+                7.3,
+                297.0
+            ],
+            [
+                7.3,
+                428.0
+            ],
+            [
+                21.0,
+                428.0
+            ],
+            [
+                21.0,
+                434.0
+            ],
+            [
+                108.9,
+                434.0
+            ],
+            [
+                108.9,
+                746.0
+            ],
+            [
+                120.0,
+                746.0
+            ]
+        ]
+    },
+    "RFNV": {
+        "Site name": " Fire Station 10 RF10, 5250 N. Virginia\n",
+        "Lat/long": " 39.57392/-119.82921\n",
+        "Endpoint Lat/Long": " 39.57493/-119.83023\n",
+        "Seismic Station Location Lat/Long": " 39.5742/-119.8275\n",
+        "Average velocity to 10 m, m/s": " 500\n",
+        "Average velocity to 30 m, m/s": " 597\n",
+        "Average velocity to 100 m, m/s": " 732\n",
+        "Soil Classification": " 991\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Ta\n",
+        "Geological reference": "NBMG- Nevada Bureau of Mines and Geology (1973). Reno folio soil map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 23/06/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 280 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (14/02/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                410.082
+            ],
+            [
+                5.0,
+                410.082
+            ],
+            [
+                5.0,
+                640.535
+            ],
+            [
+                10.0,
+                640.535
+            ],
+            [
+                10.0,
+                640.535
+            ],
+            [
+                20.0,
+                640.535
+            ],
+            [
+                20.0,
+                681.687
+            ],
+            [
+                30.0,
+                681.687
+            ],
+            [
+                30.0,
+                784.568
+            ],
+            [
+                40.0,
+                784.568
+            ],
+            [
+                40.0,
+                788.683
+            ],
+            [
+                50.0,
+                788.683
+            ],
+            [
+                50.0,
+                788.683
+            ],
+            [
+                60.0,
+                788.683
+            ],
+            [
+                60.0,
+                784.568
+            ],
+            [
+                70.0,
+                784.568
+            ],
+            [
+                70.0,
+                846.296
+            ],
+            [
+                80.0,
+                846.296
+            ],
+            [
+                80.0,
+                846.296
+            ],
+            [
+                90.0,
+                846.296
+            ],
+            [
+                90.0,
+                846.296
+            ],
+            [
+                100.24,
+                846.296
+            ],
+            [
+                100.24,
+                1393.621
+            ],
+            [
+                111.298,
+                1393.621
+            ],
+            [
+                111.298,
+                1451.235
+            ],
+            [
+                150.0,
+                1451.235
+            ]
+        ]
+    },
+    "egge1-10": {
+        "Site name": " EGGE UNR Quad\n",
+        "Lat/long": " 39.5387103/-119.814502079\n",
+        "Endpoint Lat/Long": " N/A\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 432\n",
+        "Average velocity to 30 m, m/s": " 590\n",
+        "Average velocity to 100 m, m/s": " 753\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " N/A\n",
+        "Geological reference": " N/A\n",
+        "Date": " 00/03/07 (dd/mm/yy)\n",
+        "Performed by": " John Louie\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 64.5 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (22/1/08)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                432.89
+            ],
+            [
+                13.5,
+                432.89
+            ],
+            [
+                13.5,
+                831.85
+            ],
+            [
+                44.0,
+                831.85
+            ],
+            [
+                44.0,
+                598.9
+            ],
+            [
+                64.5,
+                598.9
+            ],
+            [
+                64.5,
+                1166.55
+            ],
+            [
+                100.0,
+                1166.55
+            ]
+        ]
+    },
+    "vrrt5-12": {
+        "Site name": " VRRT 5-12 near N Virginia Ra fault\n",
+        "Lat/long": " 39.4758655/-119.67171589\n",
+        "Endpoint Lat/Long": " N/A\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 486\n",
+        "Average velocity to 30 m, m/s": " 623\n",
+        "Average velocity to 100 m, m/s": " 850\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " N/A \n",
+        "Geological reference": " N/A\n",
+        "Date": " 15/03/03 (dd/mm/yy)\n",
+        "Performed by": " Geol 492/692 class\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 50 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " J. Louie (10/08/09)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                486.44
+            ],
+            [
+                10.5,
+                486.44
+            ],
+            [
+                10.5,
+                663.16
+            ],
+            [
+                25.0,
+                663.16
+            ],
+            [
+                25.0,
+                1013.93
+            ],
+            [
+                100.0,
+                1013.93
+            ]
+        ]
+    },
+    "SKYF_RF07": {
+        "Site name": " SKYF RF07 Skyline Blvd.(Reno Fire Station #7), RENO, NV \n",
+        "Lat/long": " 39.48272/-119.83489\n",
+        "Endpoint Lat/Long": " 39.48165/-119.83603\n",
+        "Seismic Station Location Lat/Long": " 39.4825/-119.8340\n",
+        "Average velocity to 10 m, m/s": " 337\n",
+        "Average velocity to 30 m, m/s": " 337\n",
+        "Average velocity to 100 m, m/s": " 417\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Thz\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 19/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 180 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (14/02/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                337.075
+            ],
+            [
+                12.714,
+                337.075
+            ],
+            [
+                12.714,
+                337.075
+            ],
+            [
+                54.768,
+                337.075
+            ],
+            [
+                54.768,
+                443.197
+            ],
+            [
+                73.35,
+                443.197
+            ],
+            [
+                73.35,
+                753.401
+            ],
+            [
+                101.711,
+                753.401
+            ],
+            [
+                101.711,
+                965.646
+            ],
+            [
+                150.711,
+                965.646
+            ]
+        ]
+    },
+    "1016-355": {
+        "Site name": " Locust St. between Kuenzli St.and Aitken St., Reno\n",
+        "Lat/long": " 39.52732/-119.8005\n",
+        "Average velocity to 10 m, m/s": " 466\n",
+        "Average velocity to 30 m, m/s": " 526\n",
+        "Average velocity to 100 m, m/s": " 805\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 115 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                466.168
+            ],
+            [
+                22.46,
+                466.168
+            ],
+            [
+                22.46,
+                855.389
+            ],
+            [
+                36.364,
+                855.389
+            ],
+            [
+                36.364,
+                1064.97
+            ],
+            [
+                43.0,
+                1064.97739
+            ]
+        ]
+    },
+    "PICO": {
+        "Site name": " PICO Picolo Elementary School, RENO, NV\n",
+        "Lat/long": " 39.43036/-119.77465\n",
+        "Endpoint Lat/Long": " 39.43148/-119.77534\n",
+        "Seismic Station Location Lat/Long": " 39.4312/-119.7756 \n",
+        "Average velocity to 10 m, m/s": " 310\n",
+        "Average velocity to 30 m, m/s": " 350\n",
+        "Average velocity to 100 m, m/s": " 424\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available\n",
+        "Geological Classification": " Qdm\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 31/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 230 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                309.563
+            ],
+            [
+                12.225,
+                309.563
+            ],
+            [
+                12.225,
+                384.699
+            ],
+            [
+                77.262,
+                384.699
+            ],
+            [
+                77.262,
+                835.519
+            ],
+            [
+                200.0,
+                835.519
+            ]
+        ]
+    },
+    "1012-355": {
+        "Site name": " S. Wells Ave. between Second St. and the Truckee River, Reno\n",
+        "Lat/long": " 39.52843/-119.8028\n",
+        "Average velocity to 10 m, m/s": " 424\n",
+        "Average velocity to 30 m, m/s": " 428\n",
+        "Average velocity to 100 m, m/s": " 572\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 96.46 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                424.429
+            ],
+            [
+                28.904,
+                424.429
+            ],
+            [
+                28.904,
+                561.416
+            ],
+            [
+                50.35,
+                561.416
+            ],
+            [
+                50.35,
+                725.799
+            ],
+            [
+                60.0,
+                725.799
+            ]
+        ]
+    },
+    "1005-354": {
+        "Site name": " Mill St. between Locust and Wells Ave., Reno\n",
+        "Lat/long": " 39.5258/-119.80195\n",
+        "Average velocity to 10 m, m/s": " 415\n",
+        "Average velocity to 30 m, m/s": " 526\n",
+        "Average velocity to 100 m, m/s": " 634\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 20/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 112.94 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (12/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                415.297
+            ],
+            [
+                12.587,
+                415.297
+            ],
+            [
+                12.587,
+                652.74
+            ],
+            [
+                36.364,
+                652.74
+            ],
+            [
+                36.364,
+                698.402
+            ],
+            [
+                43.0,
+                698.402
+            ]
+        ]
+    },
+    "NOAA-RS": {
+        "Site name": " NN Station NOAA, Truckee Meadows Community College, Reno, NV \n",
+        "Lat/long": " 39.568193/-119.796267\n",
+        "Endpoint Lat/Long": " 39.568183/-119.797357 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.568085/-119.795813  WGS84\n",
+        "Array center to station distance": " 42 m\n",
+        "Average velocity to 10 m, m/s": " 342   \n",
+        "Average velocity to 30 m, m/s": " 402\n",
+        "Average velocity to 100m, m/s": "     \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 150  \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (03/01/12) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                219.0
+            ],
+            [
+                3.2,
+                219.0
+            ],
+            [
+                3.2,
+                342.0
+            ],
+            [
+                6.7,
+                342.0
+            ],
+            [
+                6.7,
+                427.0
+            ],
+            [
+                18.1,
+                427.0
+            ],
+            [
+                18.1,
+                512.0
+            ],
+            [
+                38.4,
+                512.0
+            ],
+            [
+                38.4,
+                727.0
+            ],
+            [
+                101.0,
+                727.0
+            ],
+            [
+                101.0,
+                2033.0
+            ],
+            [
+                137.5,
+                2033.0
+            ],
+            [
+                137.5,
+                3305.0
+            ],
+            [
+                150.0,
+                3305.0
+            ]
+        ]
+    },
+    "1013-355": {
+        "Site name": " Kirman Ave. between Mill St. and Ryland St., Reno\n",
+        "Lat/long": " 39.52457/-119.7981\n",
+        "Average velocity to 10 m, m/s": " 461\n",
+        "Average velocity to 30 m, m/s": " 462\n",
+        "Average velocity to 100 m, m/s": " 567\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 87.53 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                460.959
+            ],
+            [
+                28.904,
+                460.959
+            ],
+            [
+                28.904,
+                502.055
+            ],
+            [
+                49.412,
+                502.055
+            ],
+            [
+                49.412,
+                693.836
+            ],
+            [
+                200.0,
+                693.83625
+            ]
+        ]
+    },
+    "RF08": {
+        "Site name": " RF08 RF08, 3600 Kings Row (Reno Fire Station #8), RENO, NV\n",
+        "Lat/long": " 39.542615/-119.855675\n",
+        "Endpoint Lat/Long": " 39.54324/-119.85439\n",
+        "Seismic Station Location Lat/Long": " 39.5427/-119.8561\n",
+        "Average velocity to 10 m, m/s": " 521\n",
+        "Average velocity to 30 m, m/s": " 521\n",
+        "Average velocity to 100 m, m/s": " 540\n",
+        "Soil Classification": " 653\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Th\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 20/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 420 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                521.311
+            ],
+            [
+                59.658,
+                521.311
+            ],
+            [
+                59.658,
+                569.126
+            ],
+            [
+                151.1,
+                569.126
+            ],
+            [
+                151.1,
+                842.35
+            ],
+            [
+                200.0,
+                842.35
+            ]
+        ]
+    },
+    "1007-354": {
+        "Site name": " Ryland St. between Wells Ave. and High St., Reno\n",
+        "Lat/long": " 39.5239/-119.80537\n",
+        "Average velocity to 10 m, m/s": " 447\n",
+        "Average velocity to 30 m, m/s": " 489\n",
+        "Average velocity to 100 m, m/s": " 566\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qdo\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 20/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 33.53 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (12/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                447.26
+            ],
+            [
+                16.084,
+                447.26
+            ],
+            [
+                16.084,
+                547.717
+            ],
+            [
+                41.492,
+                547.717
+            ],
+            [
+                41.492,
+                620.776
+            ],
+            [
+                50.0,
+                620.776
+            ]
+        ]
+    },
+    "CF03-RS": {
+        "Site name": " NN Station CF03, Oak Street, Carson City, NV \n",
+        "Lat/long": " 39.126546/-119.766946\n",
+        "Endpoint Lat/Long": " 39.126544/-119.765927 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.125793/-119.767597  WGS84\n",
+        "Array center to station distance": " 34 m\n",
+        "Average velocity to 10 m, m/s": " 165 \n",
+        "Average velocity to 30 m, m/s": " 252  \n",
+        "Average velocity to 100 m, m/s": " 573 \n",
+        "date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 150 \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (22/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                165.0
+            ],
+            [
+                2.3,
+                165.0
+            ],
+            [
+                2.3,
+                247.0
+            ],
+            [
+                22.1,
+                247.0
+            ],
+            [
+                22.1,
+                313.0
+            ],
+            [
+                45.7,
+                313.0
+            ],
+            [
+                45.7,
+                356.0
+            ],
+            [
+                86.1,
+                356.0
+            ],
+            [
+                86.1,
+                573.0
+            ],
+            [
+                134.1,
+                573.0
+            ],
+            [
+                134.1,
+                631.0
+            ],
+            [
+                152.4,
+                631.0
+            ]
+        ]
+    },
+    "NOAA": {
+        "Site name": " NOAA (National Oceanic and Atmospheric Administration), RENO\n",
+        "Lat/long": " 39.5681/-119.7958\n",
+        "Average velocity to 10 m, m/s": " 325\n",
+        "Average velocity to 30 m, m/s": " 407\n",
+        "Average velocity to 100 m, m/s": " 614\n",
+        "Date": " 19/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha, UNR\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 150 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/07/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                281.293
+            ],
+            [
+                5.048,
+                281.293
+            ],
+            [
+                5.048,
+                386.735
+            ],
+            [
+                10.096,
+                386.735
+            ],
+            [
+                10.096,
+                434.354
+            ],
+            [
+                20.192,
+                434.354
+            ],
+            [
+                20.192,
+                502.381
+            ],
+            [
+                30.048,
+                502.381
+            ],
+            [
+                30.048,
+                563.605
+            ],
+            [
+                40.144,
+                563.605
+            ],
+            [
+                40.144,
+                840.476
+            ],
+            [
+                150.0,
+                840.476
+            ]
+        ]
+    },
+    "CF02-RS": {
+        "Site name": " NN Station CF02, East College Parkway, Carson City, NV \n",
+        "Lat/long": " 39.190404/-119.742181\n",
+        "Endpoint Lat/Long": " 39.190522/-119.743206 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.190591/-119.741800  WGS84\n",
+        "Array center to station distance": " 39 m\n",
+        "Average velocity to 10 m, m/s": " 244 \n",
+        "Average velocity to 30 m, m/s": " 277 \n",
+        "average velocity to 100 m, m/s": " 900\n",
+        "date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 100 \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (22/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                244.0
+            ],
+            [
+                23.246,
+                244.0
+            ],
+            [
+                23.246,
+                511.0
+            ],
+            [
+                44.817,
+                511.0
+            ],
+            [
+                44.817,
+                900.0
+            ],
+            [
+                100.0,
+                900.0
+            ]
+        ]
+    },
+    "VSTA3-s7-remi": {
+        "Site name": " North Virgina St. Array No.3, Reno, Nevada\n",
+        "Lat/long": " 39.5746/-119.82940\n",
+        "Endpoint Lat/Long": " 39.574332/-119.829569 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 438\n",
+        "Average velocity to 30 m, m/s": " 533\n",
+        "Average velocity to 100 m, m/s": " 911\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Ta\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 30.4 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (25/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                438.128
+            ],
+            [
+                16.152,
+                438.128
+            ],
+            [
+                16.152,
+                712.1
+            ],
+            [
+                30.404,
+                712.1
+            ],
+            [
+                30.404,
+                1317.123
+            ],
+            [
+                200.0,
+                1317.123
+            ]
+        ]
+    },
+    "RENO": {
+        "Site name": " RENO LMR basement, UNR\n",
+        "Lat/long": " 39.5391/-119.8138 \n",
+        "Endpoint Lat/Long": " \n",
+        "Seismic Station Location Lat/Long": " 39.5391/-119.8138\n",
+        "Average velocity to 10 m, m/s": " 281\n",
+        "Average velocity to 30 m, m/s": " 364\n",
+        "Average velocity to 100 m, m/s": " 488\n",
+        "Soil Classification": " 683\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Qpf\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 20/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 190 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                208.784
+            ],
+            [
+                4.994,
+                208.784
+            ],
+            [
+                4.994,
+                427.516
+            ],
+            [
+                64.312,
+                427.516
+            ],
+            [
+                64.312,
+                841.71
+            ],
+            [
+                164.312,
+                841.71
+            ]
+        ]
+    },
+    "VSTA4-s2-remi": {
+        "Site name": " North Virgina St. Array No.4, Reno, Nevada\n",
+        "Lat/long": " 39.5746/-119.82940 \n",
+        "Endpoint Lat/Long": " 39.576430/-119.831559 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 332\n",
+        "Average velocity to 30 m, m/s": " 526\n",
+        "Average velocity to 100 m, m/s": " 847\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Ta\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 25.65 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (25/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                332.395
+            ],
+            [
+                11.803,
+                332.395
+            ],
+            [
+                11.803,
+                783.902
+            ],
+            [
+                25.803,
+                783.902
+            ],
+            [
+                25.803,
+                1157.955
+            ],
+            [
+                200.0,
+                1157.955
+            ]
+        ]
+    },
+    "1015-355": {
+        "Site name": " Kirman Ave. between E 2nd St.and the Truckee River, Reno\n",
+        "Lat/long": " 39.52843/-119.79848\n",
+        "Average velocity to 10 m, m/s": " 415\n",
+        "Average velocity to 30 m, m/s": " 482\n",
+        "Average velocity to 100 m, m/s": " 616\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 116.47 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                415.297
+            ],
+            [
+                17.249,
+                415.297
+            ],
+            [
+                17.249,
+                602.511
+            ],
+            [
+                27.739,
+                602.511
+            ],
+            [
+                27.739,
+                698.402
+            ],
+            [
+                34.0,
+                698.402
+            ]
+        ]
+    },
+    "EGLV-RS": {
+        "Site name": " NN Station EGLV, Hidden Meadow Drive, Carson City, NV \n",
+        "Lat/long": " 39.159032/-119.719338\n",
+        "Endpoint Lat/Long": " 39.159817/-119.719284 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.157900/-119.720606  WGS84\n",
+        "Array center to station distance": " 164 m\n",
+        "Average velocity to 10 m, m/s": " 255  \n",
+        "Average velocity to 30 m, m/s": " 303     \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 80 \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (22/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                255.0
+            ],
+            [
+                14.5,
+                255.0
+            ],
+            [
+                14.5,
+                367.0
+            ],
+            [
+                38.5,
+                367.0
+            ],
+            [
+                38.5,
+                1231.0
+            ],
+            [
+                80.0,
+                1231.0
+            ]
+        ]
+    },
+    "HVGC": {
+        "Site name": " HVGC Hidden Valley Golf Course, RENO, NV\n",
+        "Lat/long": " 39.49107/-119.720305\n",
+        "Endpoint Lat/Long": " 39.49222/-119.72086\n",
+        "Seismic Station Location Lat/Long": " 39.4897/-119.7209\n",
+        "Average velocity to 10 m, m/s": " 269\n",
+        "Average velocity to 30 m, m/s": " 295\n",
+        "Average velocity to 100 m, m/s": " 476\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qfvi\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 31/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 230 m \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                268.579
+            ],
+            [
+                24.45,
+                268.579
+            ],
+            [
+                24.45,
+                514.481
+            ],
+            [
+                43.032,
+                514.481
+            ],
+            [
+                43.032,
+                685.246
+            ],
+            [
+                200.0,
+                685.246
+            ]
+        ]
+    },
+    "Railroadtrack-s7-remi": {
+        "Site name": " Railroad Track, Reno, Nevada\n",
+        "Lat/long": " 39.575714/-119.823247\n",
+        "Endpoint Lat/Long": " 39.575962/-119.822132 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 370\n",
+        "Average velocity to 30 m, m/s": " 502\n",
+        "Average velocity to 100 m, m/s": " 675\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Ta\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 27.55 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (24/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                369.635
+            ],
+            [
+                13.302,
+                369.635
+            ],
+            [
+                13.302,
+                689.269
+            ],
+            [
+                27.553,
+                689.269
+            ],
+            [
+                27.553,
+                792.009
+            ],
+            [
+                200.0,
+                792.009
+            ]
+        ]
+    },
+    "1004-087": {
+        "Site name": " Hillcrest Dr. between Lakeside Dr. and S. Virginia St., Reno\n",
+        "Lat/long": " 39.5045/-119.8059\n",
+        "Average velocity to 10 m, m/s": " 282\n",
+        "Average velocity to 30 m, m/s": " 336\n",
+        "Average velocity to 100 m, m/s": " 668\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qa\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": "  03/26/2004(dd/mm/yyyy)\n",
+        "Performed by": " Matt Clark, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 450 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (14/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                281.618
+            ],
+            [
+                20.089,
+                281.618
+            ],
+            [
+                20.089,
+                556.127
+            ],
+            [
+                41.518,
+                556.127
+            ],
+            [
+                41.518,
+                1465.411
+            ],
+            [
+                200.0,
+                1465.411
+            ]
+        ]
+    },
+    "WGLF": {
+        "Site name": " WGLF, Washoe County Golf, RENO, NV\n",
+        "Lat/long": " 39.499005/-119.821355\n",
+        "Endpoint Lat/Long": " 39.50018/-119.82094\n",
+        "Seismic Station Location Lat/Long": " 39.4986/-119.8216\n",
+        "Average velocity to 10 m, m/s": " 352\n",
+        "Average velocity to 30 m, m/s": " 352\n",
+        "Average velocity to 100 m, m/s": " 353\n",
+        "Soil Classification": " \n",
+        "Soil reference": " \n",
+        "Geological Classification": " \n",
+        "Geological reference": "\n",
+        "Date": " 19/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 650 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                352.186
+            ],
+            [
+                99.267,
+                352.186
+            ],
+            [
+                99.267,
+                428.689
+            ],
+            [
+                223.716,
+                428.689
+            ],
+            [
+                223.716,
+                694.898
+            ],
+            [
+                250.716,
+                694.898
+            ]
+        ]
+    },
+    "ltao1-10-win-teg": {
+        "Site name": " LTAO Lake Tahoe Truckee River Outlet\n",
+        "Lat/long": " 39.166904839/-120.14208 \n",
+        "Endpoint ": " N/A\n",
+        "Endpoint Lat/Long": " N/A\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 194\n",
+        "Average velocity to 30 m, m/s": " 295\n",
+        "Average velocity to 100 m, m/s": " 366\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " N/A \n",
+        "Geological reference": " N/A. \n",
+        "Date": " 17/03/03 (dd/mm/yy)\n",
+        "Performed by": " Geol 492/692 class\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 65 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " J. Louie (10/08/09)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                194.59
+            ],
+            [
+                12.0,
+                194.59
+            ],
+            [
+                12.0,
+                446.28
+            ],
+            [
+                44.0,
+                446.28
+            ],
+            [
+                44.0,
+                403.44
+            ],
+            [
+                100.0,
+                403.44
+            ]
+        ]
+    },
+    "BFC-RS": {
+        "Site name": " NN Station BFC, Pine Nut Mountains, Nevada\n",
+        "Lat/long": " 38.894103/-119.608305\n",
+        "Endpoint Lat/Long": " 38.894344/-119.607306 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 38.893784/-119.609404 WGS84\n",
+        "Array center to station distance": " 99 m\n",
+        "Average velocity to 10 m, m/s": " 349\n",
+        "Average velocity to 30 m, m/s": " 410\n",
+        "Date": " 16/11/10 (dd/mm/yy)\n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 120 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (22/12/11)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                247.0
+            ],
+            [
+                2.4,
+                247.0
+            ],
+            [
+                2.4,
+                379.0
+            ],
+            [
+                11.3,
+                379.0
+            ],
+            [
+                11.3,
+                412.0
+            ],
+            [
+                21.9,
+                412.0
+            ],
+            [
+                21.9,
+                527.0
+            ],
+            [
+                46.3,
+                527.0
+            ],
+            [
+                46.3,
+                1135.0
+            ],
+            [
+                105.2,
+                1135.0
+            ],
+            [
+                105.2,
+                1404.0
+            ],
+            [
+                120.0,
+                1404.0
+            ]
+        ]
+    },
+    "SMRN": {
+        "Site name": " SMRN (Sparks Marina), Sparks, NV\n",
+        "Lat/long": " 39.537115/-119.72823\n",
+        "Endpoint Lat/Long": " 39.53701/-119.72993\n",
+        "Seismic Station Location Lat/Long": " 39.5372/-119.7274\n",
+        "Average velocity to 10 m, m/s": " 269\n",
+        "Average velocity to 30 m, m/s": " 309\n",
+        "Average velocity to 100 m, m/s": " 387\n",
+        "Soil Classification": " 805\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 19/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 145 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (14/02/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                268.579
+            ],
+            [
+                12.714,
+                268.579
+            ],
+            [
+                12.714,
+                347.814
+            ],
+            [
+                73.839,
+                347.814
+            ],
+            [
+                73.839,
+                774.49
+            ],
+            [
+                150.839,
+                774.49
+            ]
+        ]
+    },
+    "SSFS": {
+        "Site name": " SSFS Spanish Springs Fire Station, Spanish Springs, NV\n",
+        "Lat/long": " 39.638195/-119.70754\n",
+        "Endpoint Lat/Long": " 39.63692/-119.70754\n",
+        "Seismic Station Location Lat/Long": " 39.637/-119.7083\n",
+        "Average velocity to 10 m, m/s": " 346\n",
+        "Average velocity to 30 m, m/s": " 353\n",
+        "Average velocity to 100 m, m/s": " 418\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qavi\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 31/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 150 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                346.448
+            ],
+            [
+                27.384,
+                346.448
+            ],
+            [
+                27.384,
+                436.339
+            ],
+            [
+                42.054,
+                436.339
+            ],
+            [
+                42.054,
+                457.377
+            ],
+            [
+                200.0,
+                457.377
+            ]
+        ]
+    },
+    "HVGC-RS": {
+        "Site name": " NN Station HVGC, Hidden Valley Country Club, Reno, NV \n",
+        "Lat/long": " 39.491133/-11.720816\n",
+        "Endpoint Lat/Long": " 39.491958/-119.720849 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.489591/-119.721196  WGS84\n",
+        "Array center to station distance": " 175 m\n",
+        "Average velocity to 10 m, m/s": " 265  \n",
+        "Average velocity to 30 m, m/s": " 265\n",
+        "Average velocity to 100 m, m/s": " 406      \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 150\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (27/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                148.7
+            ],
+            [
+                2.4,
+                148.7
+            ],
+            [
+                2.4,
+                214.4
+            ],
+            [
+                7.7,
+                214.4
+            ],
+            [
+                7.7,
+                307.6
+            ],
+            [
+                35.8,
+                307.6
+            ],
+            [
+                35.8,
+                565.2
+            ],
+            [
+                105.9,
+                565.2
+            ],
+            [
+                105.9,
+                581.7
+            ],
+            [
+                141.7,
+                581.7
+            ],
+            [
+                141.7,
+                921.5
+            ],
+            [
+                150.0,
+                921.5
+            ]
+        ]
+    },
+    "1009-355": {
+        "Site name": " Holcomb Ave. between Ryland St. and Mill St., Reno\n",
+        "Lat/long": " 39.5247/-119.80635\n",
+        "Average velocity to 10 m, m/s": " 427\n",
+        "Average velocity to 30 m, m/s": " 511\n",
+        "Average velocity to 100 m, m/s": " 713\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 125.65 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                426.712
+            ],
+            [
+                12.821,
+                426.712
+            ],
+            [
+                12.821,
+                563.699
+            ],
+            [
+                27.04,
+                563.699
+            ],
+            [
+                27.04,
+                858.219
+            ],
+            [
+                32.0,
+                858.219
+            ]
+        ]
+    },
+    "LENZ-RS": {
+        "Site name": " NN Station LENZ, Lenz School, Reno, NV \n",
+        "Lat/long": " 39.426937/-119.774832\n",
+        "Endpoint Lat/Long": " 39.426466/-119.775720 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.427133/-119.775332  WGS84\n",
+        "Array center to station distance": " 48 m\n",
+        "Average velocity to 10 m, m/s": " 350   \n",
+        "Average velocity to 30 m, m/s": " 365 \n",
+        "Average velocity to 100 m, m/s": " 417\n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 130 \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (27/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                187.0
+            ],
+            [
+                1.7,
+                187.0
+            ],
+            [
+                1.7,
+                345.9
+            ],
+            [
+                3.7,
+                345.9
+            ],
+            [
+                3.7,
+                389.8
+            ],
+            [
+                43.3,
+                389.8
+            ],
+            [
+                43.3,
+                461.1
+            ],
+            [
+                104.4,
+                461.1
+            ],
+            [
+                104.4,
+                724.2
+            ],
+            [
+                130.0,
+                724.2
+            ]
+        ]
+    },
+    "demo-UNRQuad": {
+        "Site name": " demo-UNRQuad\n",
+        "Lat/long": " 39.538267/-119.81431821\n",
+        "Endpoint Lat/Long": " N/A\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 307\n",
+        "Average velocity to 30 m, m/s": " 398\n",
+        "Average velocity to 100 m, m/s": " 709\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " N/A\n",
+        "Geological reference": " N/A. \n",
+        "Date": " 00/03/07 (dd/mm/yy)\n",
+        "Performed by": " John Louie.\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 44 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (22/01/08)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                307.04
+            ],
+            [
+                13.0,
+                307.04
+            ],
+            [
+                13.0,
+                513.22
+            ],
+            [
+                31.0,
+                513.22
+            ],
+            [
+                31.0,
+                601.58
+            ],
+            [
+                44.0,
+                601.58
+            ],
+            [
+                44.0,
+                1337.92
+            ],
+            [
+                100.0,
+                1337.92
+            ]
+        ]
+    },
+    "1014-355": {
+        "Site name": " Kirman Ave. between Mill St. and E 2nd St., Reno\n",
+        "Lat/long": " 39.52632/-119.79848\n",
+        "Average velocity to 10 m, m/s": " 438\n",
+        "Average velocity to 30 m, m/s": " 441\n",
+        "Average velocity to 100 m, m/s": " 566\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 93.18 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                438.128
+            ],
+            [
+                28.904,
+                438.128
+            ],
+            [
+                28.904,
+                534.018
+            ],
+            [
+                54.779,
+                534.018
+            ],
+            [
+                54.779,
+                725.799
+            ],
+            [
+                66.0,
+                725.799
+            ]
+        ]
+    },
+    "SKYF-RS": {
+        "Site name": " NN Station SKYF, Skyline Boulevard, Reno, NV \n",
+        "Lat/long": " 39.482092/-119.835512\n",
+        "Endpoint Lat/Long": " 39.482687/-119.834870 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.482488/-119.834002  WGS84\n",
+        "Array center to station distance": " 137 m\n",
+        "Average velocity to 10 m, m/s": " 276     \n",
+        "Average velocity to 30 m, m/s": " 276 \n",
+        "Average velocity to 100 m, m/s": " 394 \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 120 \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (03/01/12) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                369.0
+            ],
+            [
+                4.3,
+                369.0
+            ],
+            [
+                4.3,
+                261.0
+            ],
+            [
+                28.3,
+                261.0
+            ],
+            [
+                28.3,
+                314.0
+            ],
+            [
+                42.7,
+                314.0
+            ],
+            [
+                42.7,
+                549.0
+            ],
+            [
+                107.9,
+                549.0
+            ],
+            [
+                107.9,
+                1007.0
+            ],
+            [
+                121.9,
+                1007.0
+            ]
+        ]
+    },
+    "1003-087": {
+        "Site name": " Hillcrest Dr. between Lakeside Dr. and S. Virginia St., Reno\n",
+        "Lat/long": " 39.5044/-119.8082\n",
+        "Average velocity to 10 m, m/s": " 370\n",
+        "Average velocity to 30 m, m/s": " 461\n",
+        "Average velocity to 100 m, m/s": " 657\n",
+        "Soil Classification": " 652\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qdo\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": "  03/26/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Matt Clark, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 430 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (14/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                369.635
+            ],
+            [
+                10.353,
+                369.635
+            ],
+            [
+                10.353,
+                529.452
+            ],
+            [
+                64.412,
+                529.452
+            ],
+            [
+                64.412,
+                1602.511
+            ],
+            [
+                165.412,
+                1602.511
+            ]
+        ]
+    },
+    "LOVE": {
+        "Site name": " LOVE  301 Roberts Street, Reno, NV\n",
+        "Lat/long": " 39.51990/-119.80620\n",
+        "Seismic Station Location Lat/Long": " 39.51990/-119.80620\n",
+        "Average velocity to 10 m, m/s": " 308\n",
+        "Average velocity to 30 m, m/s": " 450\n",
+        "Average velocity to 100 m, m/s": " 585\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey  of Washoe County, Nevad\n",
+        "a, South Part, Sheet No. 23, (Vista Quadrangle), 1": "24,000 scale, 32 sheets.\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 31/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 220 m \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                280.204
+            ],
+            [
+                8.173,
+                280.204
+            ],
+            [
+                8.173,
+                554.49
+            ],
+            [
+                22.173,
+                554.49
+            ],
+            [
+                22.173,
+                636.122
+            ],
+            [
+                76.442,
+                636.122
+            ],
+            [
+                76.442,
+                758.163
+            ],
+            [
+                116.827,
+                758.163
+            ],
+            [
+                116.827,
+                1386.735
+            ],
+            [
+                150.827,
+                1386.735
+            ]
+        ]
+    },
+    "CF01-RS": {
+        "Site name": " NN Station CF01, South Stewart St, Carson City, NV \n",
+        "Lat/long": " 39.159339/-119.763111\n",
+        "Endpoint Lat/Long": " 39.160106/-119.763108 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/long": " 39.159295/-119.763701 \n",
+        "Array center to station distance": " 54 m\n",
+        "Average velocity to 10 m, m/s": " 210\n",
+        "Average velocity to 30 m, m/s": " 287\n",
+        "average velocity to 100 m, m/s": " 409\n",
+        "date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 160\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (22/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                138.0
+            ],
+            [
+                3.7,
+                138.0
+            ],
+            [
+                3.7,
+                302.0
+            ],
+            [
+                17.7,
+                302.0
+            ],
+            [
+                17.7,
+                379.0
+            ],
+            [
+                41.9,
+                379.0
+            ],
+            [
+                41.9,
+                539.0
+            ],
+            [
+                108.9,
+                539.0
+            ],
+            [
+                108.9,
+                662.0
+            ],
+            [
+                160.0,
+                662.0
+            ]
+        ]
+    },
+    "ltap1-10": {
+        "Site name": " LTAP Lake Tahoe 40-Acre Park Tahoe City\n",
+        "Lat/long": " 39.1647757/-120.14622443\n",
+        "Endpoint Lat/Long": " N/A\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 209\n",
+        "Average velocity to 30 m, m/s": " 299\n",
+        "Average velocity to 100 m, m/s": " 375\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " N/A \n",
+        "Geological reference": " N/A. \n",
+        "Date": " 17/03/03 (dd/mm/yy)\n",
+        "Performed by": " Geol 492/692 class\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 65 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " J. Louie (10/08/09)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                207.97
+            ],
+            [
+                11.5,
+                207.97
+            ],
+            [
+                11.5,
+                408.79
+            ],
+            [
+                44.0,
+                408.79
+            ],
+            [
+                44.0,
+                427.54
+            ],
+            [
+                100.0,
+                427.54
+            ]
+        ]
+    },
+    "RFMA": {
+        "Site name": " RFMA_RF11, 7105 Mae Anne (Reno Fire Station 11), RENO, NV\n",
+        "Lat/long": " 39.51951/-119.90129\n",
+        "Endpoint Lat/Long": " 39.51944/-119.90293\n",
+        "Seismic Station Location Lat/Long": " 39.5188/-119.9010\n",
+        "Average velocity to 10 m, m/s": " 378\n",
+        "Average velocity to 30 m, m/s": " 436\n",
+        "Average velocity to 100 m, m/s": " 562\n",
+        "Soil Classification": " 994\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Th\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 20/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 235 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                377.869
+            ],
+            [
+                20.049,
+                377.869
+            ],
+            [
+                20.049,
+                630.601
+            ],
+            [
+                96.333,
+                630.601
+            ],
+            [
+                96.333,
+                930.328
+            ],
+            [
+                129.095,
+                930.328
+            ],
+            [
+                129.095,
+                1503.552
+            ],
+            [
+                200.0,
+                1503.552
+            ]
+        ]
+    },
+    "RF08-RS": {
+        "Site name": " NN Station RF08, North McCarran Boulevard, Reno, NV \n",
+        "Lat/long": " 39.543528/-119.855675\n",
+        "Endpoint Lat/Long": " 39.543113/-119.856687 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.546692/-119.856094 WGS84\n",
+        "Array center to station distance": " 100 m\n",
+        "Average velocity to 10 m, m/s": " 518     \n",
+        "Average velocity to 30 m, m/s": " 489 \n",
+        "Average velocity to 100 m, m/s": " 519    \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 100    \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (29/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                519.0
+            ],
+            [
+                14.9,
+                519.0
+            ],
+            [
+                14.9,
+                462.0
+            ],
+            [
+                55.5,
+                462.0
+            ],
+            [
+                55.5,
+                541.0
+            ],
+            [
+                100.0,
+                541.0
+            ]
+        ]
+    },
+    "UNRX": {
+        "Site name": " UNRX\n",
+        "Lat/long": " 39.51336/-119.749385\n",
+        "Endpoint Lat/Long": " 39.51285/-119.74770\n",
+        "Seismic Station Location Lat/Long": " 39.5141/-119.7493\n",
+        "Average velocity to 10 m, m/s": " 351\n",
+        "Average velocity to 30 m, m/s": " 351\n",
+        "Average velocity to 100 m, m/s": " 491\n",
+        "Soil Classification": " 810\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 19/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 220 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (14/02/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                350.546
+            ],
+            [
+                42.543,
+                350.546
+            ],
+            [
+                42.543,
+                426.871
+            ],
+            [
+                114.425,
+                426.871
+            ],
+            [
+                114.425,
+                731.633
+            ],
+            [
+                150.425,
+                731.633
+            ]
+        ]
+    },
+    "CarsonHighSchool-s4-remi": {
+        "Site name": " Carson High School, Carson City, Nevada\n",
+        "Lat/long": " 39.167465/-119.749218\n",
+        "Endpoint Lat/Long": " 39.167184/-119.748225 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 220\n",
+        "Average velocity to 30 m, m/s": " 302\n",
+        "Average velocity to 100 m, m/s": " 418\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qal\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 24.7 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (24/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                208.904
+            ],
+            [
+                8.551,
+                208.904
+            ],
+            [
+                8.551,
+                322.455
+            ],
+            [
+                22.551,
+                322.455
+            ],
+            [
+                22.551,
+                500.762
+            ],
+            [
+                200.0,
+                500.762
+            ]
+        ]
+    },
+    "1018-355": {
+        "Site name": " Locust St. between Mill St. and Ryland St, Reno\n",
+        "Lat/long": " 39.52465/-119.8005\n",
+        "Average velocity to 10 m, m/s": " 436\n",
+        "Average velocity to 30 m, m/s": " 570\n",
+        "Average velocity to 100 m, m/s": " 678\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 21/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 72 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (18/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                435.629
+            ],
+            [
+                11.586,
+                435.629
+            ],
+            [
+                11.586,
+                646.407
+            ],
+            [
+                17.291,
+                646.407
+            ],
+            [
+                17.291,
+                737.425
+            ],
+            [
+                20.0,
+                737.42509
+            ]
+        ]
+    },
+    "RF05-RS": {
+        "Site name": " NN Station RF05, Hunter Lake Drive, Reno, NV \n",
+        "Lat/long": " 39.508924/-119.835883\n",
+        "Endpoint Lat/Long": " 39.508019/-119.835884 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.508889/-119.836957 WGS84\n",
+        "Array center to station distance": " 61 m\n",
+        "Average velocity to 10 m, m/s": " 427    \n",
+        "Average velocity to 30 m, m/s": " 464\n",
+        "Average velocity to 100 m, m/s": " 580   \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 120   \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (29/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                427.0
+            ],
+            [
+                24.3,
+                427.0
+            ],
+            [
+                24.3,
+                742.0
+            ],
+            [
+                83.3,
+                742.0
+            ],
+            [
+                83.3,
+                749.0
+            ],
+            [
+                120.0,
+                749.0
+            ]
+        ]
+    },
+    "EVAN": {
+        "Site name": " UNR Campus Evans Cr. Record St. Davidson Math & Science Center site, Reno, Nevada\n",
+        "Lat/long": " 39.539145/-119.812023\n",
+        "Endpoint Lat/Long": " 39.538384/-119.811587 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 281\n",
+        "Average velocity to 30 m, m/s": " 364\n",
+        "Average velocity to 50 m, m/s": " 387\n",
+        "Average velocity to 100 m, m/s": " 488\n",
+        "Date": " 00/04/02 (dd/mm/yy)\n",
+        "Performed by": " J. Louie, A. Concha, W. Thelen, T. Rasmussen\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 100 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " J. Louie (10/08/09)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                208.784
+            ],
+            [
+                4.994,
+                208.784
+            ],
+            [
+                4.994,
+                427.516
+            ],
+            [
+                64.312,
+                427.516
+            ],
+            [
+                64.312,
+                841.71
+            ],
+            [
+                164.312,
+                841.71
+            ]
+        ]
+    },
+    "VSTA2-s2-remi": {
+        "Site name": " North Virgina St. Array No.2, Reno, Nevada\n",
+        "Lat/long": " 39.5746/-119.82940\n",
+        "Endpoint Lat/Long": " 39.576140/-119.832334 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 929\n",
+        "Average velocity to 30 m, m/s": " 833\n",
+        "Average velocity to 100 m, m/s": " 1152\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Ta\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 35.85 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (24/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                928.995
+            ],
+            [
+                10.451,
+                928.995
+            ],
+            [
+                10.451,
+                803.425
+            ],
+            [
+                21.853,
+                803.425
+            ],
+            [
+                21.853,
+                769.178
+            ],
+            [
+                35.853,
+                769.178
+            ],
+            [
+                35.853,
+                1488.356
+            ],
+            [
+                135.853,
+                1488.356
+            ]
+        ]
+    },
+    "1004-354": {
+        "Site name": " Mill St. between Wells Ave. and High St., Reno\n",
+        "Lat/long": " 39.5259/-119.80422\n",
+        "Average velocity to 10 m, m/s": " 466\n",
+        "Average velocity to 30 m, m/s": " 547\n",
+        "Average velocity to 100 m, m/s": " 648\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 20/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 117.65 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (12/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                465.525
+            ],
+            [
+                12.587,
+                465.525
+            ],
+            [
+                12.587,
+                625.342
+            ],
+            [
+                36.364,
+                625.342
+            ],
+            [
+                36.364,
+                712.1
+            ],
+            [
+                43.0,
+                712.1
+            ]
+        ]
+    },
+    "PICO-RS": {
+        "Site name": " NN Station PICO, Marvin Piccolo School, Reno, NV \n",
+        "Lat/long": " 39.431181/-119.774952\n",
+        "Endpoint Lat/Long": " 39.431377/-119.774518 WGS84 geophone 12\n",
+        "Seismic Station Location Lat/Long": " 39.431302/-119.775505 WGS84\n",
+        "Array center to station distance": " 39m\n",
+        "Average velocity to 10 m, m/s": " 300    \n",
+        "Average velocity to 30 m, m/s": " 344  \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 80  \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (27/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                255.0
+            ],
+            [
+                4.6,
+                255.0
+            ],
+            [
+                4.6,
+                367.0
+            ],
+            [
+                51.1,
+                367.0
+            ],
+            [
+                51.1,
+                608.0
+            ],
+            [
+                80.0,
+                608.0
+            ]
+        ]
+    },
+    "1002-087": {
+        "Site name": " Moran St. between Holcombe Ave and S. Virginia St., Reno\n",
+        "Lat/long": " 39.5206/-119.8077\n",
+        "Average velocity to 10 m, m/s": " 370\n",
+        "Average velocity to 30 m, m/s": " 461\n",
+        "Average velocity to 100 m, m/s": " 657\n",
+        "Soil Classification": " 991\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qdo \n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": "  03/26/04(dd/mm/yyyy) \n",
+        "Performed by": " Matt Clark, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 430 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (14/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                369.635
+            ],
+            [
+                10.353,
+                369.635
+            ],
+            [
+                10.353,
+                529.452
+            ],
+            [
+                64.412,
+                529.452
+            ],
+            [
+                64.412,
+                1602.511
+            ],
+            [
+                165.412,
+                1602.511
+            ]
+        ]
+    },
+    "SWTP": {
+        "Site name": " SWTP Sparks Water Treatment Plant\n",
+        "Lat/long": " 39.515915/-119.703875\n",
+        "Endpoint Lat/Long": " 39.51520/-119.70275\n",
+        "Seismic Station Location Lat/Long": " 39.51640/-119.70350\n",
+        "Average velocity to 10 m, m/s": " 363\n",
+        "Average velocity to 30 m, m/s": " 587\n",
+        "Average velocity to 100 m, m/s": " 810\n",
+        "Soil Classification": " 876\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey of Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Ta\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 20/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 470 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (14/02/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                602.381
+            ],
+            [
+                12.5,
+                602.381
+            ],
+            [
+                12.5,
+                863.605
+            ],
+            [
+                85.577,
+                863.605
+            ],
+            [
+                85.577,
+                863.605
+            ],
+            [
+                165.144,
+                863.605
+            ],
+            [
+                165.144,
+                863.605
+            ],
+            [
+                218.75,
+                863.605
+            ],
+            [
+                218.75,
+                1968.367
+            ],
+            [
+                300.75,
+                1968.367
+            ]
+        ]
+    },
+    "CCAD-RS": {
+        "Site name": " NN Station CCAD, West King St, Carson City, NV\n",
+        "Lat/long": " 39.164034/-119.779321\n",
+        "Endpoint Lat/Long": " 39.164039/-119.780360 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.164092/-119.779596 WGS84\n",
+        "Array center to station distance": " 29 m\n",
+        "Average velocity to 10 m, m/s": " 226\n",
+        "Average velocity to 30 m, m/s": " 288\n",
+        "Date": " 16/11/10 (dd/mm/yy)\n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of Measurements": " 70 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (22/12/11)\n",
+        "units": "Depth(m) Vs(m/s)  \n",
+        "data": [
+            [
+                0.0,
+                226.0
+            ],
+            [
+                13.0,
+                226.0
+            ],
+            [
+                13.0,
+                367.0
+            ],
+            [
+                31.0,
+                367.0
+            ],
+            [
+                31.0,
+                1253.0
+            ],
+            [
+                131.0,
+                1253.0
+            ]
+        ]
+    },
+    "MND1-RS": {
+        "Site name": " NN Station MND1, Mitch Drive, Gardnerville, NV \n",
+        "Lat/long": " 38.906666/-119.730471\n",
+        "Endpoint Lat/Long": " 38.905781/-119.730458 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 38.906486/-119.731396  WGS84\n",
+        "Array center to station distance": " 84 m\n",
+        "Average velocity to 10 m, m/s": " 357    \n",
+        "Average velocity to 30 m, m/s": " 357\n",
+        "Average velocity to 100 m, m/s": " 481\n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 100 \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (27/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                357.0
+            ],
+            [
+                31.6,
+                357.0
+            ],
+            [
+                31.6,
+                481.0
+            ],
+            [
+                100.0,
+                481.0
+            ]
+        ]
+    },
+    "1002-354": {
+        "Site name": " E. Second St. between Locust and Wells Ave., Reno\n",
+        "Lat/long": " 39.5275/-119.80195\n",
+        "Average velocity to 10 m, m/s": " 498\n",
+        "Average velocity to 30 m, m/s": " 498\n",
+        "Average velocity to 100 m, m/s": " 655\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 20/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 178.82 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (12/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                498.276
+            ],
+            [
+                37.201,
+                498.276
+            ],
+            [
+                37.201,
+                745.402
+            ],
+            [
+                48.976,
+                745.402
+            ],
+            [
+                48.976,
+                820.115
+            ],
+            [
+                59.0,
+                820.115
+            ]
+        ]
+    },
+    "WTP-s6-remi": {
+        "Site name": " Water Treatment Plant, Reno, Nevada\n",
+        "Lat/long": " 39.515900/-119.702271\n",
+        "Endpoint Lat/Long": " 39.516412/-119.703538 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 564\n",
+        "Average velocity to 30 m, m/s": " 623\n",
+        "Average velocity to 100 m, m/s": " 815\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 41.08 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (24/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                563.699
+            ],
+            [
+                15.677,
+                563.699
+            ],
+            [
+                15.677,
+                769.178
+            ],
+            [
+                27.078,
+                769.178
+            ],
+            [
+                27.078,
+                529.452
+            ],
+            [
+                41.078,
+                529.452
+            ],
+            [
+                41.078,
+                1100.228
+            ],
+            [
+                141.078,
+                1100.228
+            ]
+        ]
+    },
+    "RF05": {
+        "Site name": " RF05, 1500 Mayberry Dr., RENO, NV\n",
+        "Lat/long": " 39.50946/-119.83747\n",
+        "Endpoint Lat/Long": " 39.50914/-119.83899\n",
+        "Seismic Station Location Lat/Long": " 39.5095/-119.8360\n",
+        "Average velocity to 10 m, m/s": " 489\n",
+        "Average velocity to 30 m, m/s": " 581\n",
+        "Average velocity to 100 m, m/s": " 670\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Qdo\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 20/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 85 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (14/02/06)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                488.776
+            ],
+            [
+                13.462,
+                488.776
+            ],
+            [
+                13.462,
+                647.959
+            ],
+            [
+                20.192,
+                647.959
+            ],
+            [
+                20.192,
+                717.347
+            ],
+            [
+                28.846,
+                717.347
+            ],
+            [
+                28.846,
+                717.347
+            ],
+            [
+                125.241,
+                717.347
+            ],
+            [
+                125.241,
+                1272.449
+            ],
+            [
+                200.0,
+                1272.449
+            ]
+        ]
+    },
+    "1008-354": {
+        "Site name": " Ryland St. between Locust and Wells Ave., Reno\n",
+        "Lat/long": " 39.5236/-119.80195\n",
+        "Average velocity to 10 m, m/s": " 466\n",
+        "Average velocity to 30 m, m/s": " 525\n",
+        "Average velocity to 100 m, m/s": " 635\n",
+        "Soil Classification": " 661\n",
+        "Soil reference": " Reno Folio Soil Map 4ad\n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Reno Folio Geologic Map 4ag\n",
+        "Date": " 20/12/2004 (dd/mm/yyyy)\n",
+        "Performed by": " Karalyn Heath, UNR\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 37.65 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Matt Clark  (12/07/2005)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                465.525
+            ],
+            [
+                12.821,
+                465.525
+            ],
+            [
+                12.821,
+                579.68
+            ],
+            [
+                38.228,
+                579.68
+            ],
+            [
+                38.228,
+                716.667
+            ],
+            [
+                46.0,
+                716.667
+            ]
+        ]
+    },
+    "SWTP-RS": {
+        "Site name": " NN Station SWTP, Truckee Meadows Water Reclamation, Reno, NV \n",
+        "Lat/long": " 39.515743/-119.703698\n",
+        "Endpoint Lat/Long": " 39.515187/-119.702737 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.516194/-119.704404 WGS84\n",
+        "Array center to station distance": " 78 m\n",
+        "Average velocity to 10 m, m/s": " 346    \n",
+        "Average velocity to 30 m, m/s": " 557 \n",
+        "Average velocity to 100 m, m/s": " 914    \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 170    \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (03/01/12) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                165.0
+            ],
+            [
+                2.5,
+                165.0
+            ],
+            [
+                2.5,
+                258.0
+            ],
+            [
+                7.4,
+                258.0
+            ],
+            [
+                7.4,
+                1119.0
+            ],
+            [
+                15.9,
+                1119.0
+            ],
+            [
+                15.9,
+                1119.0
+            ],
+            [
+                51.2,
+                1119.0
+            ],
+            [
+                51.2,
+                1354.0
+            ],
+            [
+                163.0,
+                1354.0
+            ],
+            [
+                163.0,
+                2500.0
+            ],
+            [
+                170.0,
+                2500.0
+            ]
+        ]
+    },
+    "UNRN": {
+        "Site name": " UNRN Nelson Bldg, Downtown Reno\n",
+        "Lat/long": " 39.5272/-119.81891\n",
+        "Endpoint Lat/Long": " 39.52697/-119.8199\n",
+        "Seismic Station Location Lat/Long": " 39.527/-119.8180\n",
+        "Average velocity to 10 m, m/s": " 300\n",
+        "Average velocity to 30 m, m/s": " 376\n",
+        "Average velocity to 100 m, m/s": " 501\n",
+        "Soil Classification": " 624\n",
+        "Soil reference": " USDA-SCS- U.S Department of Agriculture Soil Conservation Service- (1978). Soil Survey \tof Washoe County, Nevada, South Part, Sheet No. 23, (Vista Quadrangle), 1",
+        "Geological Classification": " Qto\n",
+        "Geological reference": "NBMG- Nevada Bureau of Mines and Geology (1973). Reno folio soil map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 23/06/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 110 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (14/02/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                278.98
+            ],
+            [
+                5.048,
+                278.98
+            ],
+            [
+                5.048,
+                325.51
+            ],
+            [
+                10.096,
+                325.51
+            ],
+            [
+                10.096,
+                345.102
+            ],
+            [
+                20.192,
+                345.102
+            ],
+            [
+                20.192,
+                580.204
+            ],
+            [
+                30.048,
+                580.204
+            ],
+            [
+                30.048,
+                580.204
+            ],
+            [
+                40.144,
+                580.204
+            ],
+            [
+                40.144,
+                580.252
+            ],
+            [
+                98.798,
+                580.252
+            ],
+            [
+                98.798,
+                968.367
+            ],
+            [
+                200.0,
+                968.367
+            ]
+        ]
+    },
+    "WYRD": {
+        "Site name": " WYRD Washoe County Yard, Longley Lane, RENO, NV\n",
+        "Lat/long": " 39.492275/-119.760375\n",
+        "Endpoint Lat/Long": " 39.49191/-119.75878\n",
+        "Seismic Station Location Lat/Long": " 39.4927/-119.7628\n",
+        "Average velocity to 10 m, m/s": " 235\n",
+        "Average velocity to 30 m, m/s": " 294\n",
+        "Average velocity to 100 m, m/s": " 482\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qa\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 31/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 190 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                233.06
+            ],
+            [
+                9.78,
+                233.06
+            ],
+            [
+                9.78,
+                336.885
+            ],
+            [
+                33.741,
+                336.885
+            ],
+            [
+                33.741,
+                548.634
+            ],
+            [
+                62.592,
+                548.634
+            ],
+            [
+                62.592,
+                896.995
+            ],
+            [
+                200.0,
+                896.995
+            ]
+        ]
+    },
+    "NMHS-RS": {
+        "Site name": " NN Station NMHS, Nevada Mental Health Services, Reno, NV \n",
+        "Lat/long": " 39.531664/-119.776514\n",
+        "Endpoint Lat/Long": " 39.530774/-119.776515 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.530787/-119.776396  WGS84\n",
+        "Array center to station distance": " 97 m\n",
+        "Average velocity to 10 m, m/s": " 500    \n",
+        "Average velocity to 30 m, m/s": " 370 \n",
+        "Average velocity to 100 m, m/s": " 399\n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 120  \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (27/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                168.0
+            ],
+            [
+                1.9,
+                168.0
+            ],
+            [
+                1.9,
+                243.0
+            ],
+            [
+                3.2,
+                243.0
+            ],
+            [
+                3.2,
+                361.0
+            ],
+            [
+                6.7,
+                361.0
+            ],
+            [
+                6.7,
+                508.0
+            ],
+            [
+                18.1,
+                508.0
+            ],
+            [
+                18.1,
+                369.0
+            ],
+            [
+                72.8,
+                369.0
+            ],
+            [
+                72.8,
+                508.0
+            ],
+            [
+                109.5,
+                508.0
+            ],
+            [
+                109.5,
+                906.0
+            ],
+            [
+                120.0,
+                906.0
+            ]
+        ]
+    },
+    "BMHS": {
+        "Site name": " BMHS Bishop Manogue High School, Reno, Nevada\n",
+        "Lat/long": " 39.4245/-119.76465\n",
+        "Endpoint Lat/Long": " 39.42322/-119.76468\n",
+        "Seismic Station Location Lat/Long": " 39.4231/-119.7648\n",
+        "Average velocity to 10 m, m/s": " 371\n",
+        "Average velocity to 30 m, m/s": " 400\n",
+        "Average velocity to 100 m, m/s": " 509\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qdm\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 31/03/05 (dd/mm/yy)\n",
+        "Performed by": " Aasha Pancha\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 123 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Aasha Pancha (13/06/05)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                371.311
+            ],
+            [
+                16.137,
+                371.311
+            ],
+            [
+                16.137,
+                440.164
+            ],
+            [
+                76.773,
+                440.164
+            ],
+            [
+                76.773,
+                1541.803
+            ],
+            [
+                200.0,
+                1541.803
+            ]
+        ]
+    },
+    "ltsp1-12": {
+        "Site name": " LTSP Lake Tahoe Sugarpine Point State Park along Calif Hwy 89\n",
+        "Lat/long": " 39.0565497/-120.1194965\n",
+        "Endpoint Lat/Long": " N/A\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 261\n",
+        "Average velocity to 30 m, m/s": " 371\n",
+        "Average velocity to 100 m, m/s": " 435\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " N/A \n",
+        "Geological reference": " N/A. \n",
+        "Date": " 17/03/03 (dd/mm/yy)\n",
+        "Performed by": " Geol 492/692 class\n",
+        "Type of measurements": " ReMi\n",
+        "Depth of measurements": " 60 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " J. Louie (10/08/09)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                261.53
+            ],
+            [
+                11.0,
+                261.53
+            ],
+            [
+                11.0,
+                360.6
+            ],
+            [
+                43.5,
+                360.6
+            ],
+            [
+                43.5,
+                582.84
+            ],
+            [
+                100.0,
+                582.84
+            ]
+        ]
+    },
+    "UNRN-s9-remi": {
+        "Site name": " Unversity of Nevada Nelson BLDG, Reno, Nevada\n",
+        "Lat/long": " 39.526968/-119.819030\n",
+        "Endpoint Lat/Long": " 39.527046/-119.819249 WGS84\n",
+        "Seismic Station Location Lat/Long": " N/A\n",
+        "Average velocity to 10 m, m/s": " 370\n",
+        "Average velocity to 30 m, m/s": " 434\n",
+        "Average velocity to 100 m, m/s": " 624\n",
+        "Soil Classification": " Not Available\n",
+        "Soil reference": " Not Available \n",
+        "Geological Classification": " Qto\n",
+        "Geological reference": " Bonham, H.F. Jr. and Bingler, E.C. (1973). Reno folio geologic map, Nevada Bureau of Mines and Geology, Environmental Series, 1",
+        "Date": " 00/06/07 (dd/mm/yy)\n",
+        "Performed by": " Amr Wakwak & Bryce Grimm\n",
+        "Type of measurements": " Remi\n",
+        "Depth of measurements": " 27.78 m\n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " Amr Wakwak (25/10/07)\n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                369.635
+            ],
+            [
+                13.777,
+                369.635
+            ],
+            [
+                13.777,
+                483.79
+            ],
+            [
+                27.777,
+                483.79
+            ],
+            [
+                27.777,
+                769.178
+            ],
+            [
+                127.777,
+                769.178
+            ]
+        ]
+    },
+    "SMRN-RS": {
+        "Site name": " NN Station SMRN, East Lincoln Way, Sparks, NV \n",
+        "Lat/long": " 39.537051/-119.728365\n",
+        "Endpoint Lat/Long": " 39.537073/-119.727263 WGS84 geophone 24\n",
+        "Seismic Station Location Lat/Long": " 39.526992/-119.728297 WGS84\n",
+        "Array center to station distance": " 7 m\n",
+        "Average velocity to 10 m, m/s": " 259      \n",
+        "Average velocity to 30 m, m/s": " 286  \n",
+        "Average velocity to 100 m, m/s": " 331     \n",
+        "Date": " 16/11/10 (dd/mm/yy) \n",
+        "Performed by": " Optim SDS\n",
+        "Type of measurement": " ReMi\n",
+        "Depth of measurements": " 130    \n",
+        "Function stepped (y or n)": " yes\n",
+        "Posted by": " John Louie (29/12/11) \n",
+        "units": "Depth(m) Vs(m/s)\n",
+        "data": [
+            [
+                0.0,
+                259.0
+            ],
+            [
+                13.2,
+                259.0
+            ],
+            [
+                13.2,
+                312.0
+            ],
+            [
+                75.6,
+                312.0
+            ],
+            [
+                75.6,
+                520.0
+            ],
+            [
+                130.0,
+                520.0
+            ]
+        ]
+    }
+}
